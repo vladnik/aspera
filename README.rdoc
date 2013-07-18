@@ -21,7 +21,7 @@ The program should then go on to report how many of the words in the list can be
 Performance matters: the program should return results quickly even for very large lists (100,000+ items).  
 Please find attached a file, “words for problem.txt”, containing a word list, with 173k rows, for testing purposes.
 
-=== Critics
+=== Criticism
 Fairly quick Ruby hash solution. No count was included, but it was easily modifiable to include the correct account.
 However, he unfortunately didn't read the instructions. And, he didn't bother to instantiate his PrefixTree class
 to solve the problem
